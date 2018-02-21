@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/antlr.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/asm-attrs.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/asm.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cglib-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-beanutils.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-collections-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-digester.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/antlr-2.7.5H3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-fileupload.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-validator.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/dom4j-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ehcache-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hibernate3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jaas.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jakarta-oro.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jaxen-1.1-beta-4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jaybird-2.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jaybird-full-2.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdbc2_0-stdext.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jstl.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jta.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mini-j2ee.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-3.1.12-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-3.1.13-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/postgresql-8.1-407.jdbc3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/standard.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/struts.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xerces-2.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="lib2/nachocalendar-0.23.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

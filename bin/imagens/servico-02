@@ -1,0 +1,1083 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+      lang="en">
+
+
+  <head>
+    <meta http-equiv="Content-Type"
+          content="text/html;charset=utf-8" />
+
+    <title>Portal - Mesa Redonda</title>
+
+    
+      
+        <base href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-02" />
+      
+    
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    <meta content="operador" name="DC.creator" />
+    <meta content="2004-04-19 11:48:45"
+          name="DC.date.created" />
+    <meta content="2004-09-15 16:29:27"
+          name="DC.date.modified" />
+    <meta content="Document" name="DC.type" />
+    <meta content="text/html" name="DC.format" />
+
+    <!-- Basic crude style for Netscape4.x - This can be removed
+         if you don't want the special NS4 look - it will still work,
+         just be plain text instead. Column layout for Netscape4.x included -->
+    <link rel="Stylesheet" type="text/css"
+          href="http://www.idbrasil.gov.br/ploneNS4.css" />
+
+    <!-- Column style sheet. -->
+    <style type="text/css" media="all">@import url(http://www.idbrasil.gov.br/ploneColumns.css);</style>
+
+    <!-- Main style sheets for CSS2 capable browsers -->
+    <style type="text/css" media="screen"> @import url(http://www.idbrasil.gov.br/plone.css);</style>
+
+    <!-- Old style sheet from Plone 1.0, remove tal:condition="nothing" if you need to use the old styles.
+         Will be removed in Plone 2.1. -->
+    
+
+    <!-- Alternate style sheets for the bigger/smaller text switcher -->
+    <link rel="alternate stylesheet" type="text/css"
+          media="screen"
+          href="http://www.idbrasil.gov.br/ploneTextSmall.css"
+          title="Small Text" />
+    <link rel="alternate stylesheet" type="text/css"
+          media="screen"
+          href="http://www.idbrasil.gov.br/ploneTextLarge.css"
+          title="Large Text" />
+    
+
+    <!-- Custom style sheet if available -->
+    <style type="text/css" media="all">@import url(http://www.idbrasil.gov.br/ploneCustom.css);</style>
+
+    <!-- Style sheet used for printing -->
+    <link rel="stylesheet" type="text/css" media="print"
+          href="http://www.idbrasil.gov.br/plonePrint.css" />
+
+    <!-- Style sheet used for presentations (Opera is the only browser supporting this at the moment) -->
+    <link rel="stylesheet" type="text/css"
+          media="projection"
+          href="http://www.idbrasil.gov.br/plonePresentation.css" />
+
+    <!-- Internet Explorer CSS Fixes -->
+    <!--[if IE]>
+    <style type="text/css" media="all">@import url(http://www.idbrasil.gov.br/ploneIEFixes.css);</style>
+    <![endif]-->
+
+    <link rel="shortcut icon"
+          href="http://www.idbrasil.gov.br/favicon.ico"
+          type="image/x-icon" />
+    
+    <link rel="search"
+          href="http://www.idbrasil.gov.br/search_form"
+          title="Search this site" />
+
+        
+    <link rel="up"
+          href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod"
+          title="Up one level" />
+    <link rel="copyright" href="copyright"
+          title="Copyright information" />
+    <link rel="author" href="author"
+          title="Author information" />
+
+    
+
+    <!-- Disable IE6 image toolbar -->
+    <meta http-equiv="imagetoolbar" content="no" />
+
+    
+      <!-- A slot where you can insert CSS in the header from a template -->
+      
+    
+
+    
+
+      
+    
+    
+    
+    
+    
+
+
+      
+      <!-- A slot where you can insert elements in the header from a template -->
+    
+
+    
+      <!-- A slot where you can insert javascript in the header from a template -->
+      
+    
+
+    <!-- Common Plone ECMAScripts -->
+
+    <!-- Pull-down ECMAScript menu, only active if logged in -->
+    
+
+    <!-- Define dynamic server-side variables for javascripts in this one  -->
+    <script type="text/javascript"
+            src="http://www.idbrasil.gov.br/plone_javascript_variables.js">
+    </script>
+
+    <script type="text/javascript"
+            src="http://www.idbrasil.gov.br/plone_javascripts.js">
+    </script>
+
+    
+
+      <!-- Old JS from Plone 1.0, remove tal:condition="nothing" if you need to use the old pop-ups.
+           Will be removed in Plone 2.1 -->
+      
+
+    
+
+
+    <!-- script do Brasil.gov -->
+    <script language="JavaScript">
+    <!--
+    function comboChange(comoBox,usado){ 
+      window.open( comoBox.options[comoBox.selectedIndex].value);
+      if (usado) comoBox.selectedIndex=0;
+    }
+    //-->
+    </script>
+
+<style type="text/css">
+	<!--
+        .pr {  background-color: #FFCC00; list-style-image: none; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; font-weight: normal}
+	-->
+</style>
+
+   
+          <table border="0" width="100%" bgcolor="#ffcc00">
+              <tr>
+               <td width="50%"> <img src="logo_com2.gif" /> </td>
+               <td align="left"> <select title="Paginas do Governo Federal" class="pr" tabindex="1" onchange="comboChange(this,1)" size="1">
+            <option value="&quot; &quot;" selected>Destaques do Governo</option>
+            <option value="http://www.brasil.gov.br">Portal do Governo Federal</option>
+            <option value="http://www.e.gov.br">Portal de Servi&ccedil;os do Governo</option>
+            <option value="http://www.agenciabrasil.gov.br">Portal da Ag&ecirc;ncia 
+            de Not&iacute;cias</option>
+            <option value="http://www.previdenciasocial.gov.br/reforma/">Reforma da 
+            Previd&ecirc;ncia</option>
+            <option value="http://www.fomezero.gov.br">Programa Fome Zero</option>
+          </select>
+        </td></tr>
+       
+             </table>
+
+
+  </head>
+
+  <body>
+
+   
+<div id="tudo">
+  <div id="conteudo">
+
+
+
+ <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+
+        <a class="hiddenStructure"
+           href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-02#documentContent">Skip to content.</a>
+
+           <h1 id="portal-logo">
+    <a href="http://www.idbrasil.gov.br">Portal</a>
+</h1>
+
+           <div id="portal-skinswitcher">
+  
+</div>
+
+
+           
+
+           <div id="portal-searchbox">
+    <form name="searchform"
+          action="http://www.idbrasil.gov.br/search">
+        <label for="searchGadget" class="hiddenStructure">Search</label>
+        <input id="searchGadget" name="SearchableText"
+               type="text" size="20" alt="Search"
+               title="Search" accesskey="s"
+               class="visibility:visible" tabindex="30001" />
+        <input class="searchButton" type="submit"
+               value="Search" accesskey="s" tabindex="30002" />
+    </form>
+</div>
+
+           
+         
+      </div>
+      
+
+    <!-- 
+         <div metal:use-macro="here/global_personalbar/macros/personal_bar">
+             The personal bar. (log in, logout etc...)
+           </div> 
+     -->   
+           
+
+         <div id="portal-breadcrumbs">
+
+     
+
+    You are here:
+    
+            <a href="http://www.idbrasil.gov.br/">Home</a>
+            <span class="breadcrumbSeparator">&raquo;</span>
+    
+    
+    <span>
+        
+            <a href="http://www.idbrasil.gov.br/docs_prog_gesac/"
+               accesskey="accesskeys-breadcrumbs">Documentos Gesac</a>
+            <span class="breadcrumbSeparator"> &raquo; </span>
+            
+         
+    </span>
+    <span>
+        
+            <a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/"
+               accesskey="accesskeys-breadcrumbs">servicos</a>
+            <span class="breadcrumbSeparator"> &raquo; </span>
+            
+         
+    </span>
+    <span>
+        
+            
+            
+            <span>Mesa Redonda</span>
+         
+    </span>
+                
+	    
+</div> 
+   
+
+
+
+      <div class="visualClear"></div>
+
+      <!-- The wrapper table. It contains the three columns. There's a table-less
+           alternative in the plone_tableless skin layer that you can use if you
+           prefer layouts that don't use tables. -->
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            <!-- start of the left (by default at least) column -->
+            <td id="portal-column-one">
+              <div class="visualPadding">
+                
+                  
+
+    
+
+        
+
+        <div class="box">
+Brasília, 20/08/2006
+</div>
+    
+    
+
+        
+            
+        
+
+        
+    
+    
+
+        
+            
+        
+
+        
+    
+    
+
+        
+            
+   
+       <div class="box">
+         <a href="http://www.idbrasil.gov.br/">
+            <div align="center"><img src="http://www.idbrasil.gov.br/BannerGesac.gif" alt="" title="" longdesc="" height="48" width="103" /></div>
+         </a>
+       
+    </div>
+
+
+        
+
+        
+    
+    
+
+        
+            
+    <div>
+       <div class="body">
+              <div>
+     	                  <div class="bm_even">
+                                <a
+    href="ponto_presenca/controlador/index_pt?id=mapa_pt&amp;perfil=publico"
+    class="green">Pontos de Presença</a>
+		          </div>
+	       </div>
+               
+       </div>
+       <div class="body">
+              
+               <div>
+     	                  <div class="bm_odd">
+                                <a
+    href="http://www.idbrasil.gov.br/menu_interno/05-perguntas_frequentes"
+    class="white">Perguntas Freqüentes</a>
+		          </div>
+	       </div>
+       </div>
+       <div class="body">
+              <div>
+     	                  <div class="bm_even">
+                                <a
+    href="http://www.idbrasil.gov.br/docs_prog_gesac/artigos_entrevistas"
+    class="green">Artigos e Entrevistas</a>
+		          </div>
+	       </div>
+               
+       </div>
+       <div class="body">
+              
+               <div>
+     	                  <div class="bm_odd">
+                                <a
+    href="http://www.idbrasil.gov.br/menu_interno/docs_prog_gesac/institucional/docoficiais.html"
+    class="white">Documentos Oficiais</a>
+		          </div>
+	       </div>
+       </div>
+       <div class="body">
+              <div>
+     	                  <div class="bm_even">
+                                <a
+    href="http://www.idbrasil.gov.br/menu_interno/file.2006-05-30.1397311481"
+    class="green">Eventos </a>
+		          </div>
+	       </div>
+               
+       </div>
+       <div class="body">
+              
+               <div>
+     	                  <div class="bm_odd">
+                                <a
+    href="http://www.idbrasil.gov.br/menu_interno/file.2006-07-21.7607523471"
+    class="white">Política de Uso dos Serviços</a>
+		          </div>
+	       </div>
+       </div>
+       <div class="body">
+              <div>
+     	                  <div class="bm_even">
+                                <a
+    href="/docs_prog_gesac/pontos_presenca_em_operacao/"
+    class="green">Acompanhamento e Desempenho do Programa</a>
+		          </div>
+	       </div>
+               
+       </div>
+       <div class="body">
+              
+               <div>
+     	                  <div class="bm_odd">
+                                <a
+    href="http://www.idbrasil.gov.br/menu_interno/manualusuariogesac.pdf"
+    class="white">Manual de usuário do Programa GESAC</a>
+		          </div>
+	       </div>
+       </div>
+    </div>
+
+
+
+
+<br>
+
+        
+
+        
+    
+    
+
+        
+            
+
+    <div class="banner">
+
+       <div class="box">
+         
+            <div align="center"> <img src="http://www.idbrasil.gov.br/telecentro.gif" alt="" title="" longdesc="" height="21" width="103" /> </div>
+       
+       </div>
+    </div>
+
+
+
+        
+
+        
+    
+    
+
+        
+            
+     <div>
+       <div class="body">
+               
+              <div>
+     	                  <div class="bm_even2">
+                                <a
+    href="http://www.idbrasil.gov.br/menu_gestao/document.2006-07-11.1253002353"
+    class="white">Projetos Comunitários</a>
+		          </div>
+	       </div>
+       </div>
+       <div class="body">
+               <div>
+     	                  <div class="bm_odd2">
+                                <a
+    href="/docs_prog_gesac/capacitacoes" class="green">Capacitações</a>
+		          </div>
+	       </div>
+              
+       </div>
+       <div class="body">
+               
+              <div>
+     	                  <div class="bm_even2">
+                                <a
+    href="/docs_prog_gesac/capacitacoes/docs_prog_gesac/implementadores"
+    class="white">Implementadores Sociais</a>
+		          </div>
+	       </div>
+       </div>
+       <div class="body">
+               <div>
+     	                  <div class="bm_odd2">
+                                <a
+    href="docs_telecentro/gestao" class="green">Telecentros Comunitários</a>
+		          </div>
+	       </div>
+              
+       </div>
+    </div>
+<br>
+
+        
+
+        
+    
+    
+
+        
+            
+
+    <div class="banner">
+
+       <div class="box">
+         
+            <div align="center"> <img src="http://www.idbrasil.gov.br/logo_SoftwareLivre.gif" alt="" title="" longdesc="" height="21" width="103" /> </div>
+       
+       </div>
+    </div>
+
+
+
+        
+
+        
+    
+    
+
+        
+            
+    <div>
+       <div class="body">
+              <div>
+     	                  <div class="bm_even">
+                                <a
+    href="http://www.idbrasil.gov.br/menu_software_livre/01-inclusao_social"
+    class="green">O que é Software Livre</a>
+		          </div>
+	       </div>
+               
+       </div>
+       <div class="body">
+              
+               <div>
+     	                  <div class="bm_odd">
+                                <a
+    href="http://www.idbrasil.gov.br/menu_software_livre/document.2006-07-11.7831482366"
+    class="white">O Software livre no GESAC</a>
+		          </div>
+	       </div>
+       </div>
+    </div>
+<br>
+
+        
+
+        
+    
+    
+
+        
+
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+
+<body>
+
+
+
+    <div class="banner">
+
+       <div class="box">
+         <div align="center">
+           <a href="http://radcom.mc.gov.br/" target="_blank">
+              <img src="http://www.idbrasil.gov.br/logo_radicom.gif" alt="" title="" longdesc="" height="47" width="79" />
+           </a>
+       
+<br>
+           <a href="http://www.idbrasil.gov.br/menu_auxiliar/07-contatos">
+              <img src="http://www.idbrasil.gov.br/logo_FaleConosco.gif" alt="" title="" longdesc="" height="47" width="79" />
+           </a>
+         </div>
+</div>
+    </div>
+
+    
+</body>
+
+</html>
+
+    
+    
+
+        
+            
+ <br>  
+  <div>
+        <div class="boxgoogle">
+            <font face="Arial, Verdana,  Helvetica, sans-serif, " size="1"> 
+            <div class="innercontentGoogle" align="center">	
+                
+						  <form name="f1" method="GET" action="http://www.google.com.br/search" target="_blank" onsubmit="javascript:f1.q.value=f1.q0.value;f1.q0.value=''">
+						      
+								  <a href="http://www.google.com.br/">
+								       <img src="Logo_40wht.gif" border="0" alt="Google" width="115" height="51"></a>
+							
+								  <input type="text" name="q0" size="10" maxlength="255" value=""><br>
+								  <input type="hidden" name="q">
+								  <input type="hidden" name="hl" value="pt">
+								  <input type="hidden" name="ie" value="utf8">
+								  <input class="inputcontext" type="submit" name="btnG" value="pesquisar">
+								  <br>
+								  <br>
+							
+						  </form>
+
+
+          </div>
+       </font></div>
+  </div>
+<br>
+
+        
+
+        
+    
+
+                
+                &nbsp;
+              </div>
+            </td>
+            <!-- end of the left (by default at least) column -->
+
+            <!-- start of main content block -->
+            <td id="portal-column-content">
+                  <table cellspacing="0" cellpadding="0" width="100%" border="0">
+
+<tr>
+<td colspan="8"><b><span class="menutitulo">&nbsp;&nbsp;SERVI&Ccedil;OS</span></b></td></tr>
+<tr>
+<td><a href="/docs_prog_gesac/servicos_rod/servico-01">
+	<img height="59" alt="Correio" src="Index_06.gif" width="59" border="0"></a></td>
+<td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-02">
+	<img height="59" alt="Listas" src="Index_07.gif" width="59" border="0"></a></td>
+<td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-03">
+	<img height="59" alt="Laborat&oacute;rio" src="Index_08" width="59" border="0"></a></td>
+<td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-09">
+	<img height="59" alt="Pousada" src="Index_09.gif" width="59" border="0"></a></td>
+<td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-08">
+	<img height="59" alt="Fich&aacute;rio" src="Index_10.gif" width="59" border="0"></a></td>
+<td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-06">
+	<img height="59" alt="Escrit&oacute;rio" src="Index_11.gif" width="59" border="0"></a></td>
+<td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-04">
+	<img height="59" alt="Rau-Tu" src="Index_12.gif" width="59" border="0"></a></td>
+
+</tr>
+</table>		    
+
+ 
+ 
+ 
+ 
+
+              
+                <div id="content" class="">
+
+                  
+
+                  <div class="documentContent" id="region-content">
+
+                    <a name="documentContent"></a>
+
+                    
+
+                    
+
+                    <div>
+   <!--Superbanner retirado por Eliane, cliente solicitou , 03/05/04-->
+   <!--<center>
+    <img src = "SuperBanner.gif" alt = "Anúncio: Inclusão Digital é Aqui" title = "Anúncio: Inclusão Digital é Aqui" border = 0 align = "center">
+    </center>-->
+    <!-- O ���ne de impress㯠passa para este formulᲩo - Giuseppe -->
+    <h1>Mesa Redonda</h1>
+    <div align="right">
+    <a href="javascript:this.print();">
+                                <img alt="Print"
+    src="http://www.idbrasil.gov.br/print_icon.gif"
+    title="Imprima esta página" />
+    </a>
+    </div>
+    <div class="description"></div>
+
+    
+
+    
+        <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="GesacEstilos.css" rel="stylesheet" type="text/css">
+<link href="http://b2.adm.idbrasil.org.br/download/web/LayoutNovo/GesacEstilos.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+//-->
+</script>
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td colspan="8"><span class="menutitulo">&nbsp;&nbsp;SERVI&Ccedil;OS</span></td>
+  </tr>
+  <tr> 
+    <td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-01"><img src="http://b2.adm.idbrasil.org.br/download/web/LayoutNovo/images/Index_06.gif" alt="Correio" width="59" height="59" border="0"></a></td>
+    <td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-02"><img src="http://b2.adm.idbrasil.org.br/download/web/LayoutNovo/images/Index_07.gif" alt="Listas" width="59" height="59" border="0"></a></td>
+    <td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-03"><img src="http://b2.adm.idbrasil.org.br/download/web/LayoutNovo/images/Index_08.gif" alt="Laborat&oacute;rio" width="59" height="59" border="0"></a></td>
+    <td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-09"><img src="http://b2.adm.idbrasil.org.br/download/web/LayoutNovo/images/Index_09.gif" alt="Pousada" width="59" height="59" border="0"></a></td>
+    <td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-08"><img src="http://b2.adm.idbrasil.org.br/download/web/LayoutNovo/images/Index_10.gif" alt="Fich&aacute;rio" width="59" height="59" border="0"></a></td>
+    <td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-06"><img src="http://b2.adm.idbrasil.org.br/download/web/LayoutNovo/images/Index_11.gif" alt="Escrit&oacute;rio" width="59" height="59" border="0"></a></td>
+    <td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-04"><img src="http://b2.adm.idbrasil.org.br/download/web/LayoutNovo/images/Index_12.gif" alt="Rau-Tu" width="59" height="59" border="0"></a></td>
+    <td><a href="http://www.idbrasil.gov.br/docs_prog_gesac/servicos_rod/servico-05"><img src="http://b2.adm.idbrasil.org.br/download/web/LayoutNovo/images/Index_13.gif" alt="Teia" width="59" height="59" border="0"></a></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+  <tr> 
+    <td colspan="2" align="center" valign="top"><hr size="1"></td>
+  </tr>
+  <tr> 
+    <td align="center" valign="top"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="100"><img src="http://b2.adm.idbrasil.org.br/download/web/LayoutNovo/images/ListaGD.gif" width="90" height="70"></td>
+          <td class="TituloCase"><p><font color="#990000">LISTA DE DISCUSS&Atilde;O 
+              </font><br>
+              <br>
+              <strong>
+              <input name="Submit" type="submit" class="TextoCorrido" onClick="MM_goToURL('parent','http://www.idbrasil.org.br/index.php?service=listas');return document.MM_returnValue" value="Ver  Listas">
+              </strong> </p>
+            </td>
+        </tr>
+        <tr> 
+          <td colspan="2" class="TextoCorrido"><p>Sistema que recebe um e-mail 
+              de uma pessoa e redireciona automaticamente a todas as outras que 
+              estiverem cadastradas no mesmo grupo. </p>
+            <p><font color="#990000"><strong>Para participar de uma das listas 
+              de discuss&atilde;o da Mesa Redonda, voc&ecirc; deve:</strong></font><br>
+              1. Acessar a Mesa Redonda;<br>
+              2. Clicar na lista escolhida;<br>
+              3. Cadastrar seu nome e e-mail no formul&aacute;rio existente.</p>
+            <p> <strong><font color="#990000">Para criar uma nova lista de discuss&atilde;o, 
+              voc&ecirc; deve:</font></strong><br>
+              1. Escolher o tema que deseja discutir;<br>
+              2. Se dirigir ao Administrador do Ponto de Presen&ccedil;a;<br>
+              3. Pedir que ele crie a sua lista.<br>
+            </p>
+            </td>
+        </tr>
+        <tr> 
+          <td colspan="2">&nbsp;</td>
+        </tr>
+      </table>
+      
+    </td>
+    <td width="220" align="center"> <table width="200" border="0" cellpadding="10" cellspacing="0" bgcolor="#e5e5e5">
+        <tr> 
+          <td><table border="0" cellpadding="0" cellspacing="0" class="TextoCorrido">
+              <tr align="center"> 
+                <td valign="top" class="TituloCase"><strong><font color="#990000">Arquivos 
+                  Importantes</font></strong></td>
+              </tr>
+              <tr> 
+                <td valign="middle">&nbsp;</td>
+              </tr>
+              <tr> 
+                <td valign="middle"><div align="center"><strong><font color="#990000">Manual 
+                    de Uso </font></strong></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="middle"><font color="#000000"><a href="http://b2.adm.idbrasil.org.br/download/manuais/PDF/MesaRedonda.PDF" target="_blank">Vers&atilde;o 
+                  PDF</a></font></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="middle"><font color="#000000"><a href="http://b2.adm.idbrasil.org.br/download/manuais/OpenOffice/MesaRedonda.sxw" target="_blank">Vers&atilde;o 
+                  Open Office</a></font><font color="#FF0000">*</font></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="middle"><font color="#000000"><a href="http://b2.adm.idbrasil.org.br/download/manuais/Word/MesaRedonda.doc" target="_blank">Vers&atilde;o 
+                  Microsoft Word</a></font><font color="#FF0000">*</font></td>
+              </tr>
+              <tr> 
+                <td valign="middle">&nbsp;</td>
+              </tr>
+              <tr> 
+                <td align="center" valign="middle"> <div align="center"><strong><font color="#990000">Diretivas 
+                    e Requisitos </font></strong></div></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="middle"><font color="#000000"><a href="http://b2.adm.idbrasil.org.br/download/DiretivasRequisitos/SERVICOSGESAC-GERENCIADORDELISTASDEDISCUSSAO-DiretivasRequisitos.sxw" target="_blank">Vers&atilde;o 
+                  Open Office</a></font><font color="#FF0000">*</font></td>
+              </tr>
+              <tr> 
+                <td valign="middle">&nbsp;</td>
+              </tr>
+              <tr> 
+                <td valign="top"><div align="justify"><font color="#FF0000">* 
+                    Para visualizar os arquivos clique no link com a tecla &quot;<strong>SHIFT</strong>&quot; 
+                    pressionada. Salve o arquivo em seu computador abrindo-o em 
+                    seguida.</font></div></td>
+              </tr>
+            </table>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" class="TextoCorrido">
+              <tr> 
+                <td align="center"><a href="http://www.adobe.com.br/products/acrobat/readstep2.html"><img src="http://b2.adm.idbrasil.org.br/download/web/LayoutNovo/images/getacrobat.gif" width="88" height="31" border="0"></a><br> 
+                  <br>
+                  * Arquivos em formato PDF necessitam do plugin Adobe Acrobat 
+                  Reader clique aqui para fazer o Download gratuito </td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      <br> </td>
+  </tr>
+</table>
+</body>
+</html>
+
+    
+    
+</div>
+
+                    
+                      <div class="discussion">
+
+    
+
+</div>
+                    
+
+                  </div>
+
+                </div>
+
+              
+            </td>
+            <!-- end of main content block -->
+
+            <!-- start of right (by default at least) column -->
+            <td id="portal-column-two">
+              <div class="visualPadding">
+                
+                  
+
+    
+        
+            
+        
+
+        
+    
+    
+        
+            <div>
+
+    <div class="portlet" id="portlet-news">
+
+       
+<div class="box2">
+   <div class="boxnews">
+           <a href="http://www.radiobras.gov.br/" target="_blank"><img src="http://www.idbrasil.gov.br/agenciabrasil.gif" alt="" title="Agência Brasil de Notícias" longdesc="" height="66" width="118" /></a>
+           ÚLTIMAS NOTÍCIAS
+   </div>
+     <div class="box3">
+           
+
+                <div class="portletContent odd">
+
+                    <a href="http://www.idbrasil.gov.br/news_item.2006-08-18.6596442887"
+                       title="">
+                        <img src="http://www.idbrasil.gov.br/newsitem_icon.gif" alt="" title="News" longdesc="" height="16" width="16" />
+                        Capacitação difunde acesso às novas tecnologias e busca promover inclusão digital
+                    </a>
+
+                    <div class="portletDetails">18-08-2006</div>
+                </div>
+
+            
+           
+
+                <div class="portletContent even">
+
+                    <a href="http://www.idbrasil.gov.br/news_item.2006-08-07.4049369681"
+                       title="">
+                        <img src="http://www.idbrasil.gov.br/newsitem_icon.gif" alt="" title="News" longdesc="" height="16" width="16" />
+                        O GESAC na Flip em Paraty/RJ
+                    </a>
+
+                    <div class="portletDetails">07-08-2006</div>
+                </div>
+
+            
+           
+
+                <div class="portletContent odd">
+
+                    <a href="http://www.idbrasil.gov.br/news_item.2006-08-03.5287765814"
+                       title="">
+                        <img src="http://www.idbrasil.gov.br/newsitem_icon.gif" alt="" title="News" longdesc="" height="16" width="16" />
+                        I Encontro de Multiplicadores Estaduais do GESAC - Mato Grosso, Mato Grosso do Sul e Rondônia
+                    </a>
+
+                    <div class="portletDetails">03-08-2006</div>
+                </div>
+
+            
+           
+
+                <div class="portletContent even">
+
+                    <a href="http://www.idbrasil.gov.br/news_item.2006-08-02.0044554569"
+                       title="">
+                        <img src="http://www.idbrasil.gov.br/newsitem_icon.gif" alt="" title="News" longdesc="" height="16" width="16" />
+                        Metareciclagem promove interação homem máquina em Tiradentes
+                    </a>
+
+                    <div class="portletDetails">02-08-2006</div>
+                </div>
+
+            
+           
+
+                <div class="portletContent odd">
+
+                    <a href="http://www.idbrasil.gov.br/news_item.2006-07-31.8943775233"
+                       title="">
+                        <img src="http://www.idbrasil.gov.br/newsitem_icon.gif" alt="" title="News" longdesc="" height="16" width="16" />
+                        Exercícios físicos também estimulam a inclusão digital em Tiradentes
+                    </a>
+
+                    <div class="portletDetails">31-07-2006</div>
+                </div>
+
+                
+  </div>
+        <div class="portletContent odd">
+
+                <a href="http://www.idbrasil.gov.br/news"
+                   class="portletMore">
+                   More...
+                </a>
+
+
+         </div>            
+
+</div>
+</div>
+</div>
+        
+
+        
+    
+    
+        
+            
+     <div class="banner">
+     <div align="center">
+        <a href="http://www.serpro.gov.br/" target="_blank"><img src="http://www.idbrasil.gov.br/sm_logo_serpro.gif" alt="" title="" longdesc="" height="15" width="72" /></a><br><br>
+        <a href="http://www.zope.org/" target="_blank"><img src="http://www.idbrasil.gov.br/sm_logo_zope.gif" alt="" title="Logo Zope" longdesc="" height="18" width="43" /></a>
+   	<a href="http://www.plone.org/" target="_blank"><img src="http://www.idbrasil.gov.br/sm_logo_plone.gif" alt="" title="Logo Plone" longdesc="" height="18" width="51" /></a>
+     </div>   
+     </div>  
+  
+        
+
+        
+    
+
+                
+                &nbsp;
+              </div>
+            </td>
+            <!-- end of the right (by default at least) column -->
+          </tr>
+        </tbody>
+      </table>
+      <!-- end column wrapper -->
+
+      <div class="visualClear">&nbsp;</div>
+
+
+      <hr class="netscape4" />
+
+      
+	<div style="text-align: center; background-color: #FFFFFF; layer-background-color: #FFFFFF">
+
+
+<div class="footer">
+
+<body>
+   <div class="box">
+   
+     <table width="50%" border="0" cellspacing="3" align="center">
+	  <tr> 
+	   <span>
+           <span>   
+
+             <td align="center"> 
+                     <span> 
+                       <a href="http://www.correios.com.br/exporte/"
+                          target="_blank">
+                          <img
+    src="http://www.idbrasil.gov.br/F1098988230181"
+    height="30" width="110" border="" alt="" title="" /></a>&nbsp;&nbsp;&nbsp;
+                      </span> 
+                     
+                        
+
+             </td>  
+	
+          </span>
+	  </span>
+	   <span>
+           <span>   
+
+             <td align="center"> 
+                     <span> 
+                       <a href="http://shopping.correios.com.br/"
+                          target="_blank">
+                          <img
+    src="http://www.idbrasil.gov.br/F1098988210561"
+    height="30" width="110" border="" alt="" title="" /></a>&nbsp;&nbsp;&nbsp;
+                      </span> 
+                     
+                        
+
+             </td>  
+	
+          </span>
+	  </span>
+	   <span>
+           <span>   
+
+             <td align="center"> 
+                     <span> 
+                       <a href="http://www.mc.gov.br/tv_digital1.htm"
+                          target="_blank">
+                          <img
+    src="http://www.idbrasil.gov.br/F1098988173803"
+    height="30" width="110" border="" alt="" title="" /></a>&nbsp;&nbsp;&nbsp;
+                      </span> 
+                     
+                        
+
+             </td>  
+	
+          </span>
+	  </span>
+       </tr>
+</table>
+	
+</div>
+</body>
+
+<hr size="" class="netscape4" />
+
+<strong class="netscape4">
+If you can read this text, it means you are not experiencing the Plone design at its best.
+Plone makes heavy use of CSS, which means it is accessible to any internet browser, 
+but the design needs a 
+<a href="http://www.webstandards.org/upgrade/">standards-compliant browser to look like we intended it</a>. 
+Just so you know ;)
+</strong>
+ 
+</div>
+</div>
+
+	
+      
+
+    </div>
+
+
+
+
+  </div>
+</div>
+
+
+  </body>
+</html>
+
+

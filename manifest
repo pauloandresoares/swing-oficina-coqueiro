@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: camadaVisualSwing.MenuPrincipal
+Class-Path: lib/postgresql-8.1-407.jdbc3.jar lib/nachocalendar-0.23.jar
+
+
